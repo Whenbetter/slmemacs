@@ -1,5 +1,6 @@
-(require 'cl-lib)
 
+(require 'cl-lib)
+(setq-default lexical-binding t)
 (tool-bar-mode -1)                      ;禁用工具栏
 (menu-bar-mode -1)                      ;禁用菜单栏
 (scroll-bar-mode -1)                    ;禁用滚动条

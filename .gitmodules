@@ -1,0 +1,96 @@
+[submodule "site-lisp/extensions/lazy-load"]
+	path = site-lisp/extensions/lazy-load
+	url = https://github.com/manateelazycat/lazy-load.git
+[submodule "site-lisp/extensions/one-key"]
+	path = site-lisp/extensions/one-key
+	url = https://github.com/manateelazycat/one-key
+[submodule "site-lisp/extensions/smex"]
+	path = site-lisp/extensions/smex
+	url = https://github.com/nonsequitur/smex
+[submodule "site-lisp/extensions/auto-save"]
+	path = site-lisp/extensions/auto-save
+	url = https://github.com/manateelazycat/auto-save.git
+[submodule "site-lisp/extensions/color-rg"]
+	path = site-lisp/extensions/color-rg
+	url = https://github.com/manateelazycat/color-rg.git
+[submodule "site-lisp/extensions/lazycat-theme"]
+	path = site-lisp/extensions/lazycat-theme
+	url = https://github.com/manateelazycat/lazycat-theme.git
+[submodule "site-lisp/extensions/insert-translated-name"]
+	path = site-lisp/extensions/insert-translated-name
+	url = https://github.com/manateelazycat/insert-translated-name.git
+[submodule "site-lisp/extensions/awesome-tray"]
+	path = site-lisp/extensions/awesome-tray
+	url = https://github.com/manateelazycat/awesome-tray.git
+[submodule "site-lisp/extensions/thing-edit"]
+	path = site-lisp/extensions/thing-edit
+	url = https://github.com/manateelazycat/thing-edit.git
+[submodule "site-lisp/extensions/goto-line-preview"]
+	path = site-lisp/extensions/goto-line-preview
+	url = https://github.com/jcs090218/goto-line-preview.git
+[submodule "site-lisp/extensions/duplicate-line"]
+	path = site-lisp/extensions/duplicate-line
+	url = https://github.com/manateelazycat/duplicate-line.git
+[submodule "site-lisp/extensions/move-text"]
+	path = site-lisp/extensions/move-text
+	url = https://github.com/manateelazycat/move-text.git
+[submodule "site-lisp/extensions/open-newline"]
+	path = site-lisp/extensions/open-newline
+	url = https://github.com/manateelazycat/open-newline.git
+[submodule "site-lisp/extensions/symbol-overlay"]
+	path = site-lisp/extensions/symbol-overlay
+	url = https://github.com/wolray/symbol-overlay.git
+[submodule "site-lisp/extensions/delete-block"]
+	path = site-lisp/extensions/delete-block
+	url = https://github.com/manateelazycat/delete-block.git
+[submodule "site-lisp/extensions/instant-rename-tag"]
+	path = site-lisp/extensions/instant-rename-tag
+	url = https://github.com/manateelazycat/instant-rename-tag.git
+[submodule "site-lisp/extensions/posframe"]
+	path = site-lisp/extensions/posframe
+	url = https://github.com/tumashu/posframe.git
+[submodule "site-lisp/extensions/emacs-rime"]
+	path = site-lisp/extensions/emacs-rime
+	url = https://github.com/DogLooksGood/emacs-rime.git
+[submodule "site-lisp/extensions/emacs-application-framework"]
+	path = site-lisp/extensions/emacs-application-framework
+	url = https://github.com/emacs-eaf/emacs-application-framework
+[submodule "site-lisp/extensions/sort-tab"]
+	path = site-lisp/extensions/sort-tab
+	url = https://github.com/manateelazycat/sort-tab.git
+[submodule "site-lisp/extensions/popweb"]
+	path = site-lisp/extensions/popweb
+	url = https://github.com/manateelazycat/popweb.git
+[submodule "site-lisp/extensions/highlight-matching-tag"]
+	path = site-lisp/extensions/highlight-matching-tag
+	url = https://github.com/manateelazycat/highlight-matching-tag
+[submodule "site-lisp/extensions/lsp-bridge"]
+	path = site-lisp/extensions/lsp-bridge
+	url = https://github.com/manateelazycat/lsp-bridge
+[submodule "site-lisp/extensions/deno-bridge"]
+	path = site-lisp/extensions/deno-bridge
+	url = https://github.com/manateelazycat/deno-bridge
+[submodule "site-lisp/extensions/yasnippet"]
+	path = site-lisp/extensions/yasnippet
+	url = https://github.com/joaotavora/yasnippet
+[submodule "site-lisp/extensions/blink-search"]
+	path = site-lisp/extensions/blink-search
+	url = https://github.com/manateelazycat/blink-search
+[submodule "site-lisp/extensions/fingertip"]
+	path = site-lisp/extensions/fingertip
+	url = https://github.com/manateelazycat/fingertip
+[submodule "site-lisp/extensions/valign"]
+	path = site-lisp/extensions/valign
+	url = https://github.com/casouri/valign.git
+[submodule "site-lisp/extensions/f.el"]
+	path = site-lisp/extensions/f.el
+	url = https://github.com/rejeep/f.el.git
+[submodule "site-lisp/extensions/dash.el"]
+	path = site-lisp/extensions/dash.el
+	url = https://github.com/magnars/dash.el.git
+[submodule "site-lisp/extensions/org-super-agenda"]
+	path = site-lisp/extensions/org-super-agenda
+	url = https://github.com/alphapapa/org-super-agenda.git
+[submodule "site-lisp/extensions/s.el"]
+	path = site-lisp/extensions/s.el
+	url = https://github.com/magnars/s.el.git
