@@ -2,19 +2,14 @@
 (require 'eaf)
 
 
-(require 'eaf-browser)
-
-(require 'eaf-terminal)
-(require 'eaf-pdf-viewer)
-(require 'eaf-pyqterminal)
-(require 'eaf-org-previewer)
-(require 'eaf-file-manager)
-(require 'eaf-browser)
-(require 'eaf-git)
 (require 'eaf-markdown-previewer)
-(require 'eaf-rss-reader)
+(require 'eaf-git)
+(require 'eaf-browser)
+(require 'eaf-pdf-viewer)
+(require 'eaf-file-manager)
 (require 'eaf-image-viewer)
-(require 'eaf-file-browser)
+(require 'eaf-rss-reader)
+(require 'eaf-org-previewer)
 
 (provide 'init-eaf)
 
